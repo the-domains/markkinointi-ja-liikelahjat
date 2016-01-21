@@ -1,0 +1,28 @@
+name: Markkinointi ja Liikelahjat
+favicon: null
+layout_spectrum: 0.44022636115550995
+typography_spectrum: 0.09379620687104762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05296944547444582
+  lightness: 0.823758722981438
+  saturation: 0.3204435966908932
+  rhythmicContrast: 0.5305876687634736
+purpose: []
