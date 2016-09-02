@@ -1,20 +1,4 @@
-name: Markkinointi ja Liikelahjat
-favicon: null
-layout_spectrum: 0.44022636115550995
 typography_spectrum: 0.09379620687104762
-title: Markkinointi ja Liikelahjat
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.823758722981438
   saturation: 0.3204435966908932
   rhythmicContrast: 0.5305876687634736
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.44022636115550995
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Markkinointi ja Liikelahjat
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Test Link
+    id: 75141bde-2dde-4178-bce7-a42b936da79f
+    type: content
+favicon: null
+title: Markkinointi ja Liikelahjat
 purpose: []
