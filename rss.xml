@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Markkinointi ja Liikelahjat]]></title>
         <description><![CDATA[Markkinointi ja Liikelahjat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/markkinointi-ja-liikelahjat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 20:06:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 12:33:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/markkinointi-ja-liikelahjat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07b1e3cd-3400-4b1f-8313-c770fb5d007b.jpg">]]></description>
-            <link>undefined75141bde-2dde-4178-bce7-a42b936da79f/index.html</link>
+            <link>https://thegrid.ai/markkinointi-ja-liikelahjat/75141bde-2dde-4178-bce7-a42b936da79f/index.html</link>
             <guid isPermaLink="false">75141bde-2dde-4178-bce7-a42b936da79f</guid>
-            <pubDate>Thu, 21 Jan 2016 20:06:58 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 12:33:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
